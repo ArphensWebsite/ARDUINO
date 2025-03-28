@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ARDUINO/title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 20px;
+        }
+        iframe {
+            border: none;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>ARDUINO resources</h1>
+    <iframe src="https://drive.google.com/file/d/1R3pR3F1Y2IhR85V5xOmJJxCoiyRzQ1zz/preview" width="800" height="600"></iframe>
+
+</body>
+</html>
